@@ -12,7 +12,7 @@ Il Sassolino Bianco
 }
 
 
-:: 1 {"position":"1500,450","size":"100,100"}
+:: 1 - Inizia la missione {"position":"1500,450","size":"100,100"}
 /* La missione */
 Il mondo era fatto di odori, e questa mattina l'odore più forte era quello della mujadara.
 
@@ -38,12 +38,12 @@ Il cane si alzò. La missione era chiara: portare la busta a RAGAZZO-SAMI, verso
 
 Ma prima doveva uscire.
 
-/Se esci dalla porta sul retro, la via sicura, [[Vai al 2|2]]./
-/Se attraversi il ristorante ed esci dalla porta principale, [[Vai al 3|3]]./
-/Se cerchi di rubare un boccone di mujadara prima di partire, [[Vai al 4|4]]./
+/Se esci dalla porta sul retro, la via sicura, [[Vai al 2|2 - La porta sul retro nel vicolo]]./
+/Se attraversi il ristorante ed esci dalla porta principale, [[Vai al 3|3 - Esce dalla porta principale e incontra l'UOMO-PAPA']]./
+/Se cerchi di rubare un boccone di mujadara prima di partire, [[Vai al 4|4 - Mangia la mujadara di nascosTo]]./
 
 
-:: 10 {"position":"2275,1100","size":"100,100"}
+:: 10 - affronta l'UOMO-PAPA' {"position":"2275,1100","size":"100,100"}
 /* La dignità */
 Non si mosse.
 
@@ -53,14 +53,16 @@ Si guardarono. L'uomo fece un passo avanti. Si avvicinò finché l'odore non fu 
 
 Alzò una mano. Il cane non si mosse. La mano restò sospesa. L'uomo lasciò cadere il braccio.
 
-Una sola parola, dura. Andò verso la cucina.
+"//Kelev metuhnaf //"
+
+Due sole parole, dure. Andò verso la cucina.
 
 Il cane spinse la porta e uscì.
 
-/[[Vai al 18|18]]./
+/[[Vai al 18|18 - la strada principale e gli UOMINI-GUARDIA]]./
 
 
-:: 11 [OMAGGIO] {"position":"660,1500","size":"100,100"}
+:: 11 - il gatto morente [OMAGGIO] {"position":"660,1500","size":"100,100"}
 /* Il gatto morente */
 L'odore del gatto vecchio lo guidò nel buio.
 
@@ -78,10 +80,10 @@ Restarono così per un tempo che non seppe misurare. Il respiro del gatto si fer
 
 Si alzò. In fondo alla tana, un'apertura — un passaggio verso est.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 12 {"position":"940,1500","size":"100,100"}
+:: 12 - il GATTO SPIA {"position":"940,1500","size":"100,100"}
 /* Il GATTO-SPIA */
 L'aria fresca significava uscita.
 
@@ -93,12 +95,12 @@ Giovane, quel gatto. Giovane e cattivo, con quella coda che si muoveva lenta e q
 
 Il cane si fermò a due passi. Erano quasi della stessa taglia — il gatto grosso per un gatto, il cane piccolo per un cane.
 
-/Se attacchi il gatto per farti strada, [[Vai al 20|20]]./
-/Se ti sottometti e chiedi di passare, [[Vai al 21|21]]./
-/Se torni indietro e cerchi un'altra via, [[Vai al 5|5]]./
+/Se attacchi il gatto per farti strada, [[Vai al 20|20 - ferito dal GATTO-SPIA]]./
+/Se ti sottometti e chiedi di passare, [[Vai al 21|21 - supera il GATTO-SPIA]]./
+/Se torni indietro e cerchi un'altra via, [[Vai al 5|5 - Trivio sentiero dei gatti]]./
 
 
-:: 13 {"position":"1175,1400","size":"100,100"}
+:: 13 - la cantina nascosta con l'ODORE del RAGAZZO-SAMI {"position":"1175,1400","size":"100,100"}
 /* La cantina nascosta */
 L'odore metallico lo portò in profondità.
 
@@ -112,11 +114,11 @@ Non lui in persona — l'odore era vecchio di giorni, settimane. Ma era stato qu
 
 RAGAZZO-SAMI era stato qui. Si era nascosto qui, nel MONDO-DI-QUA. Prima di attraversare. Prima di tutto.
 
-/Se prendi la stoffa di RAGAZZO-SAMI, [[Vai al 22|22]]./
-/Se lasci tutto e cerchi l'uscita verso est, [[Vai al 19|19]]./
+/Se prendi la stoffa di RAGAZZO-SAMI, [[Vai al 22|22 - il pezzo di stoffa del RAGAZZO-SAMI]]./
+/Se lasci tutto e cerchi l'uscita verso est, [[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 14 [FERITO] {"position":"50,1900","size":"100,100"}
+:: 14 - ignora i gattini abbandonati orfani [FERITO] {"position":"50,1900","size":"100,100"}
 /* Ignorare i gattini */
 Ignorò i miagolii.
 
@@ -128,11 +130,11 @@ Si allontanò scrollando la zampa. Il liquido appiccicoso, puzzolente.
 
 Continuò verso est, zoppicando appena. Dietro, i miagolii continuavano. Non si voltò.
 
-/Se la zampa brucia troppo e non riesci a continuare, [[Vai al 61|61]]./
-/Se stringi i denti e continui, [[Vai al 19|19]]./
+/Se la zampa brucia troppo e non riesci a continuare, [[Vai al 61|61 - **GAME OVER — FERITO*]]./
+/Se stringi i denti e continui, [[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 15 [AIUTO] {"position":"1640,1500","size":"100,100"}
+:: 15 - salvataggio gattini [AIUTO] {"position":"1640,1500","size":"100,100"}
 /* I gattini */
 Si avvicinò ai gattini.
 
@@ -146,10 +148,10 @@ Li prese uno alla volta, delicatamente, e li portò vicino all'umano addormentat
 
 Era tutto quello che poteva fare.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 16 {"position":"1850,1500","size":"100,100"}
+:: 16 -. supera la scala antincendio {"position":"1850,1500","size":"100,100"}
 /* La scala antincendio */
 La scala antincendio tremò sotto le zampe.
 
@@ -163,10 +165,10 @@ Saltò. Il materasso lo accolse con un tonfo polveroso. Ce l'aveva fatta.
 
 Una donna si affacciò a una finestra e gridò qualcosa. Ma lui era già lontano, verso est.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 17 {"position":"2060,1500","size":"100,100"}
+:: 17 - il grande salto verso il POSTO-BRUTTO {"position":"2060,1500","size":"100,100"}
 /* Il grande salto */
 Prese la rincorsa.
 
@@ -182,10 +184,10 @@ In lontananza, IL-POSTO-BRUTTO lo aspettava. Il muro. La polvere. RAGAZZO-SAMI.
 
 Trovò una scala di servizio e scese.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 18 {"position":"2340,1500","size":"100,100"}
+:: 18 - la strada principale e gli UOMINI-GUARDIA {"position":"2340,1500","size":"100,100"}
 /* La strada principale */
 La strada principale era piena di gente.
 
@@ -195,12 +197,12 @@ La jeep. Parcheggiata davanti al caffè. Due UOMINI-GUARDIA seduti a bere qualco
 
 La strada passava proprio davanti al caffè.
 
-/Se passi dritto davanti al caffè con calma, [[Vai al 23|23]]./
-/Se attraversi la strada e passi dall'altro lato, [[Vai al 24|24]]./
-/Se fai il giro lungo per il vicolo dietro il barbiere, [[Vai al 25|25]]./
+/Se passi dritto davanti al caffè con calma, [[Vai al 23|23 - Davanti al caffè e gli UOMINI-GUARDIA]]./
+/Se attraversi la strada e passi dall'altro lato, [[Vai al 24|24 - attraverso la strada]]./
+/Se fai il giro lungo per il vicolo dietro il barbiere, [[Vai al 25|25 - il vicolo del BARBIERE]]./
 
 
-:: 19 {"position":"1025,2300","size":"100,100"}
+:: 19 - l'avertimento dell'anziana {"position":"1025,2300","size":"100,100"}
 /* L'avvertimento della vecchia */
 Aveva superato il quartiere.
 
@@ -210,12 +212,14 @@ Una vecchia sedeva davanti a una casa, spennando una gallina. Alzò la testa qua
 
 Disse qualcosa. Non capì le parole, ma capì il tono. Un avvertimento. Un consiglio.
 
+"Attento oggi al ghetto, Saibaba  "
+
 La vecchia abbassò la testa e tornò alla sua gallina.
 
-/[[Vai al 30|30]]./
+/[[Vai al 30|30 - la transenna]]./
 
 
-:: 2 {"position":"1100,800","size":"100,100"}
+:: 2 - La porta sul retro nel vicolo {"position":"1100,800","size":"100,100"}
 /* La porta sul retro */
 La porta sul retro sapeva di cose vecchie: legno umido, vernice scrostata. Ci passava così spesso che ormai la conosceva come il proprio odore.
 
@@ -231,12 +235,12 @@ Dritto, il vicolo continuava fino alla strada. Oggi però portava un odore stran
 
 Sulla destra, il muretto. Da lì partiva la via dei tetti.
 
-/Se ti infili nel SENTIERO-DEI-GATTI, [[Vai al 5|5]]./
-/Se continui dritto verso quell'odore strano, [[Vai al 6|6]]./
-/Se salti sul muretto e prendi la via dei tetti, [[Vai al 7|7]]./
+/Se ti infili nel SENTIERO-DEI-GATTI, [[Vai al 5|5 - Trivio sentiero dei gatti]]./
+/Se continui dritto verso quell'odore strano, [[Vai al 6|6 - Bivio Salvare i gattini]]./
+/Se salti sul muretto e prendi la via dei tetti, [[Vai al 7|7 - Salta il muretto e vede il POSTO-BRUTTO]]./
 
 
-:: 20 [FERITO] {"position":"800,1850","size":"100,100"}
+:: 20 - ferito dal GATTO-SPIA [FERITO] {"position":"800,1850","size":"100,100"}
 /* Lo scontro */
 Ringhiò.
 
@@ -250,11 +254,16 @@ Sangue. Sentì il calore che colava lungo il muso.
 
 Il gatto era sparito. Il passaggio libero. Ma la ferita bruciava, e il sangue lasciava una traccia.
 
-/Se la ferita è troppo grave e non riesci a continuare, [[Vai al 61|61]]./
-/Se continui nonostante il dolore, [[Vai al 19|19]]./
+/Se la ferita è troppo grave e vuoi tornare da LA PADRONCINA per farti medicare e riprovarci in seguito vai all'1 [[1 - Inizia la missione]] 
+
+La mujadara ormai è fredda. Il RAGAZZO-SAMI dovrà avere ancora un po' di pazienza.
 
 
-:: 21 {"position":"1000,1700","size":"100,100"}
+
+/Se continui ferito nonostante il dolore, [[Vai al 19|19 - l'avertimento dell'anziana]]./
+
+
+:: 21 - supera il GATTO-SPIA {"position":"1000,1700","size":"100,100"}
 /* La sottomissione */
 Abbassò la testa.
 
@@ -266,10 +275,10 @@ Lentamente, si spostò.
 
 Passò, la vergogna che bruciava dentro. Ma era vivo. Libero. In missione.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 22 [STOFFA] {"position":"1275,1675","size":"100,100"}
+:: 22 - il pezzo di stoffa del RAGAZZO-SAMI [STOFFA] {"position":"1275,1675","size":"100,100"}
 /* La stoffa di Sami */
 Prese la stoffa con i denti.
 
@@ -279,10 +288,10 @@ La infilò nella busta, accanto alla mujadara. Adesso portava due messaggi — u
 
 Trovò l'uscita della cantina e risalì verso la luce.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 23 {"position":"1780,1850","size":"100,100"}
+:: 23 - Davanti al caffè e gli UOMINI-GUARDIA {"position":"1780,1850","size":"100,100"}
 /* Davanti al caffè */
 Camminò con calma.
 
@@ -294,21 +303,21 @@ Passi dietro di lui? Si stavano alzando?
 
 No. I passi si fermarono. Continuò a camminare. Non si voltò finché non svoltò l'angolo.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 24 {"position":"2060,1850","size":"100,100"}
+:: 24 - attraverso la strada {"position":"2060,1850","size":"100,100"}
 /* Attraversare la strada */
 Attraversò la strada di corsa.
 
 Un motorino frenò, clacson che strillava. Schivò per un pelo, saltò sul marciapiede opposto.
 
-Un vicolo sconosciuto. Ma l'odore di est era forte — polvere, cemento, il muro. Strada giusta.
+Un vicolo sconosciuto. Ma l'odore era forte — polvere, cemento, il muro. La strada era quella giusta.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 25 {"position":"2340,1850","size":"100,100"}
+:: 25 - il vicolo del BARBIERE {"position":"2340,1850","size":"100,100"}
 /* Il bambino perduto */
 Il vicolo dietro il barbiere sapeva di schiuma da barba e acciaio.
 
@@ -318,11 +327,11 @@ A metà vicolo, un bambino. Piccolo, solo, il viso rigato di lacrime. Si era per
 
 Il bambino lo vide. Smise di piangere. Allungò una mano.
 
-/Se ignori il bambino e continui verso est, [[Vai al 26|26]]./
-/Se ti avvicini al bambino, [[Vai al 27|27]]./
+/Se ignori il bambino e continui verso est, [[Vai al 26|26 - ignra il bambino che piange]]./
+/Se ti avvicini al bambino, [[Vai al 27|27 - consola il bambino che piange]]./
 
 
-:: 26 {"position":"1800,2200","size":"100,100"}
+:: 26 - ignra il bambino che piange {"position":"1800,2200","size":"100,100"}
 /* Ignorare il bambino */
 Continuò a correre.
 
@@ -330,10 +339,10 @@ Lasciò il bambino piangente dietro di sé, puntò verso est. Non era compito su
 
 Ma il pianto lo seguì. Anche quando non poteva più sentirlo, lo sentiva ancora.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 27 [AIUTO] {"position":"2325,2500","size":"100,100"}
+:: 27 - consola il bambino che piange [AIUTO] {"position":"2325,2500","size":"100,100"}
 /* Il bambino ritrovato */
 Si avvicinò al bambino.
 
@@ -343,10 +352,10 @@ Restò fermo. Lasciò che lo accarezzasse. Intanto guardava intorno, cercando un
 
 Una donna arrivò correndo. Prese il bambino in braccio, guardò il cane. Il bambino rideva. La donna, dopo un momento, sorrise.
 
-/[[Vai al 19|19]]./
+/[[Vai al 19|19 - l'avertimento dell'anziana]]./
 
 
-:: 3 {"position":"1500,800","size":"100,100"}
+:: 3 - Esce dalla porta principale e incontra l'UOMO-PAPA' {"position":"1500,800","size":"100,100"}
 /* La porta principale */
 Per arrivare alla porta principale bisognava attraversare il cuore del RISTORANTE — la sala grande, vuota e silenziosa a quest'ora.
 
@@ -358,12 +367,12 @@ Raggiunse la porta principale. Si preparò a spingere — e sentì un rumore. Pa
 
 Tre possibilità. Un battito di cuore per decidere.
 
-/Se ti nascondi dietro il bancone e aspetti che passi, [[Vai al 8|8]]./
-/Se spingi la porta e scappi fuori prima che ti veda, [[Vai al 9|9]]./
-/Se resti immobile e lo affronti con dignità, [[Vai al 10|10]]./
+/Se ti nascondi dietro il bancone e aspetti che passi, [[Vai al 8|8 - Si nasconde dall'UOMO-PAPA']]./
+/Se spingi la porta e scappi fuori prima che ti veda, [[Vai al 9|9 - fugge dall'UOMO PAPA']]./
+/Se resti immobile e lo affronti con dignità, [[Vai al 10|10 - affronta l'UOMO-PAPA']]./
 
 
-:: 30 {"position":"1500,2550","size":"100,100"}
+:: 30 - la transenna {"position":"1500,2550","size":"100,100"}
 /* La transenna */
 La transenna era esattamente come la ricordava.
 
@@ -379,12 +388,12 @@ RAGAZZO-SAMI era dall'altra parte. La missione era dall'altra parte.
 
 Tre vie. La diretta — attraversare IL-POSTO-BRUTTO in linea retta. L'aggiramento — un sentiero che costeggiava evitando il peggio. La via del ricordo — fermarsi, respirare, riconoscere.
 
-/Se attraversi IL-POSTO-BRUTTO per la via diretta, [[Vai al 31|31]]./
-/Se aggiri IL-POSTO-BRUTTO costeggiando i muri, [[Vai al 32|32]]./
-/Se ti fermi un momento tra le macerie, [[Vai al 33|33]]./
+/Se attraversi IL-POSTO-BRUTTO per la via diretta, [[Vai al 31|31 - il POSTO-BRUTTO]]./
+/Se aggiri IL-POSTO-BRUTTO costeggiando i muri, [[Vai al 32|32 - IL-BUCO-CHE-CONOSCO]]./
+/Se ti fermi un momento tra le macerie, [[Vai al 33|33 - PREGHIERA]]./
 
 
-:: 31 {"position":"1150,2900","size":"100,100"}
+:: 31 - il POSTO-BRUTTO {"position":"1150,2900","size":"100,100"}
 /* La via diretta */
 Entrò nelle macerie.
 
@@ -400,10 +409,10 @@ Riprese a camminare. Il resto passò come in una nebbia.
 
 IL-BUCO-CHE-CONOSCO era lì. Il passaggio sotto il muro.
 
-/[[Vai al 34|34]]./
+/[[Vai al 34|34 - IL-BUCO-NEL-MURO]]./
 
 
-:: 32 {"position":"1500,2900","size":"100,100"}
+:: 32 - IL-BUCO-CHE-CONOSCO {"position":"1500,2900","size":"100,100"}
 /* L'aggiramento */
 Prese la via lunga.
 
@@ -415,10 +424,10 @@ Aspettò. Il rumore non si ripeté. Riprese a camminare.
 
 Ci aveva messo più tempo. Ma era arrivato intero. IL-BUCO-CHE-CONOSCO lo aspettava.
 
-/[[Vai al 34|34]]./
+/[[Vai al 34|34 - IL-BUCO-NEL-MURO]]./
 
 
-:: 33 [OMAGGIO] {"position":"1850,2900","size":"100,100"}
+:: 33 - PREGHIERA [OMAGGIO] {"position":"1850,2900","size":"100,100"}
 /* L'omaggio */
 Si fermò.
 
@@ -436,10 +445,10 @@ Restò lì per un tempo che non seppe misurare. Si alzò. Riprese a camminare.
 
 Qualcosa era diverso adesso. Più leggero e più pesante insieme. IL-BUCO-CHE-CONOSCO era là.
 
-/[[Vai al 34|34]]./
+/[[Vai al 34|34 - IL-BUCO-NEL-MURO]]./
 
 
-:: 34 {"position":"1500,3250","size":"100,100"}
+:: 34 - IL-BUCO-NEL-MURO {"position":"1500,3250","size":"100,100"}
 /* Il buco nel muro */
 IL-BUCO-CHE-CONOSCO era dove l'aveva lasciato.
 
@@ -453,14 +462,16 @@ Esitò. Ma non c'era tempo. RAGAZZO-SAMI aspettava.
 
 Emerse dall'altra parte. Il MONDO-DI-LÀ lo accolse con il suo odore di polvere e sabbia. IL-CANTIERE a duecento metri. E l'odore di RAGAZZO-SAMI — come un filo d'oro in un tessuto grigio.
 
-/[[Vai al 35|35]]./
+/[[Vai al 35|35 IL-CANTIERE]]./
 
 
-:: 35 {"position":"1500,3600","size":"100,100"}
+:: 35 IL-CANTIERE {"position":"1500,3600","size":"100,100"}
 /* IL-CANTIERE */
 IL-CANTIERE era silenzioso.
 
 Troppo silenzioso. Di solito rumori — martelli, voci, il ronzio delle macchine. Oggi niente.
+Di solito il cantiere era pieno di gente grossa che parlava LA-LINGUA-STRANA, che non era ne' quella del RAGAZZO-SAMI ne' quella della PADRONCINA. Si comportavano come se fossero i padroni del POSTO-BRUTTO, ma non lo trattavano male.
+
 
 Avanzò con cautela. L'odore di RAGAZZO-SAMI era forte — era qui, da qualche parte. Ma sotto, un altro odore. Paura. Sudore freddo.
 
@@ -468,12 +479,12 @@ Girò l'angolo delle casse dove RAGAZZO-SAMI si nascondeva sempre.
 
 Eccolo. Seduto con le ginocchia al petto, gli occhi fissi nella direzione da cui sapeva che il cane sarebbe arrivato. Ma qualcosa era diverso. Occhi rossi. Mani che tremavano.
 
-Quando lo vide, qualcosa nei suoi occhi si illuminò — ma era una luce fragile, che tremava.
+Quando lo vide, qualcosa nei suoi occhi si illuminò — ma era una luce fragile.
 
-/[[Vai al 36|36]]./
+/[[Vai al 36|36 IL-RAGAZZO-SAMI]]./
 
 
-:: 36 {"position":"1500,3950","size":"100,100"}
+:: 36 IL-RAGAZZO-SAMI {"position":"1500,3950","size":"100,100"}
 /* Lo scambio */
 RAGAZZO-SAMI allungò la mano.
 
@@ -491,12 +502,13 @@ Rimise il contenitore nella busta e tirò fuori qualcosa dalla tasca. Il sassoli
 
 Lo mise nella busta. Ma non la richiuse.
 
-Guardò il cane. Occhi lucidi.
+Guardò il cane con gli occhi lucidi.
+"Saibaba, ci stanno cacciando anche da qui. Stanno costruendo nuove case e non vogliono noi palestinesi tra i piedi. Anche qui nel ghetto. Come faremo?"
 
-/[[Vai al 37|37]]./
+/[[Vai al 37|37 IL-RAGAZZO-SAMI lo abbraccia]]./
 
 
-:: 37 {"position":"1500,4300","size":"100,100"}
+:: 37 IL-RAGAZZO-SAMI lo abbraccia {"position":"1500,4300","size":"100,100"}
 /* L'abbraccio */
 RAGAZZO-SAMI fece qualcosa che non aveva mai fatto.
 
@@ -514,11 +526,11 @@ La voce tremava.
 
 Lo guardò. C'era qualcosa di diverso in questo momento. Qualcosa che non c'era mai stato. Come si sente l'arrivo della pioggia prima che cada la prima goccia.
 
-/Se resti ancora un momento con RAGAZZO-SAMI, [[Vai al 38|38]]./
-/Se parti subito per tornare da LA-PADRONCINA, [[Vai al 39|39]]./
+/Se resti ancora un momento con RAGAZZO-SAMI, [[Vai al 38|38 - rimane in silenzio con Sami]]./
+/Se parti subito per tornare da LA-PADRONCINA, [[Vai al 39|39 Sababa lascia SAMI]]./
 
 
-:: 38 [TEMPO] {"position":"1220,4650","size":"100,100"}
+:: 38 - rimane in silenzio con Sami [TEMPO] {"position":"1220,4650","size":"100,100"}
 /* Restare */
 Non si mosse.
 
@@ -536,10 +548,10 @@ RAGAZZO-SAMI si alzò. Indicò verso ovest. Verso il muro. Verso casa.
 
 Era ora di andare.
 
-/[[Vai al 39|39]]./
+/[[Vai al 39|39 Sababa lascia SAMI]]./
 
 
-:: 39 {"position":"1780,4650","size":"100,100"}
+:: 39 Sababa lascia SAMI {"position":"1780,4650","size":"100,100"}
 /* Il ritorno */
 Si voltò verso ovest.
 
@@ -549,16 +561,16 @@ IL-BUCO era là, seminascosto. La via del ritorno.
 
 Ma qualcosa dentro diceva che oggi la velocità contava. L'odore nuovo nel tunnel. L'abbraccio di RAGAZZO-SAMI. Le lacrime.
 
-Tre opzioni. IL-BUCO — sicuro, prevedibile. Il checkpoint — rischioso, ma veloce. La via lunga — più sicura, ma il sole stava scendendo.
+Tre opzioni. IL-BUCO — sicuro, prevedibile. Il checkpoint — rischioso, ma veloce. La via lunga — più sicura, ma il sole stava tramontando.
 
 Il sassolino nella busta pesava. Non pesava davvero — ma pesava lo stesso.
 
-/Se torni per IL-BUCO-CHE-CONOSCO, [[Vai al 40|40]]./
-/Se provi a passare dal checkpoint, [[Vai al 41|41]]./
-/Se prendi la via lunga che aggira tutto, [[Vai al 42|42]]./
+/Se torni per IL-BUCO-CHE-CONOSCO, [[Vai al 40|40 - l'agguato nel tunnel]]./
+/Se provi a passare dal checkpoint, [[Vai al 41|41 cerchi di sfuggire al CANE-GUARDIA-CATTIVO]]./
+/Se prendi la via lunga che aggira tutto, [[Vai al 42|42 arrivo al MONDO-DI-QUA]]./
 
 
-:: 4 {"position":"1900,800","size":"100,100"}
+:: 4 - Mangia la mujadara di nascosTo {"position":"1900,800","size":"100,100"}
 /* Il tentativo fallito */
 La mujadara cantava.
 
@@ -580,11 +592,11 @@ I suoi occhi brillavano.
 
 «Vai. E torna.»
 
-/Se esci dalla porta sul retro, [[Vai al 2|2]]./
-/Se attraversi il ristorante verso la porta principale, [[Vai al 3|3]]./
+/Se esci dalla porta sul retro, [[Vai al 2|2 - La porta sul retro nel vicolo]]./
+/Se attraversi il ristorante verso la porta principale, [[Vai al 3|3 - Esce dalla porta principale e incontra l'UOMO-PAPA']]./
 
 
-:: 40 {"position":"1150,5000","size":"100,100"}
+:: 40 - l'agguato nel tunnel {"position":"1150,5000","size":"100,100"}
 /* La via veloce */
 Scelse il percorso che conosceva.
 
@@ -600,33 +612,33 @@ Prese una decisione. Si abbassò sulle zampe e scattò.
 
 Corse verso la luce a tutta velocità. Voci che gridavano, mani che cercavano di afferrarlo. Qualcosa gli sfiorò il pelo.
 
-/Se riesci a sfuggire alle mani, [[Vai al 43|43]]./
-/Se le mani ti afferrano, [[Vai al 60|60]]./
+/Se non sei ferito e riesci a sfuggire alle mani, [[Vai al 43|43 arrivo al ristorante ma c'è qualcosa che non va]]./
+/Se sei ferito le mani ti afferrano, [[Vai al 60|60 GAME OVER CATTURATO]]./
 
 
-:: 41 [INSEGUITO] {"position":"1250,5350","size":"100,100"}
+:: 41 cerchi di sfuggire al CANE-GUARDIA-CATTIVO [INSEGUITO] {"position":"1250,5350","size":"100,100"}
 /* Il checkpoint */
 Il checkpoint era più affollato del solito.
 
-UOMINI-GUARDIA ovunque. E qualcosa di peggio — un cane. Grosso, addestrato, occhi duri. Un CANE-GUARDIA.
+UOMINI-GUARDIA ovunque. E qualcosa di peggio — un cane. Grosso, addestrato, occhi duri. Un CANE-GUARDIA-CATTIVO.
 
-Il CANE-GUARDIA lo vide. Cominciò ad abbaiare.
+Il CANE-GUARDIA-CATTIVO lo vide. Cominciò ad abbaiare.
 
 Un UOMO-GUARDIA gridò qualcosa. Il tono era chiaro: fermo.
 
 Si voltò e corse.
 
-Il CANE-GUARDIA dietro — veloce, addestrato. Le fauci si chiusero a un centimetro dalla coda. Schivò, deviò, si infilò in un varco tra le macerie.
+Il CANE-GUARDIA-CATTIVO dietro — veloce, addestrato. Le fauci si chiusero a un centimetro dalla coda. Schivò, deviò, si infilò in un varco tra le macerie.
 
-Il CANE-GUARDIA era troppo grosso. Abbaiò, frustrato. La voce dell'UOMO-GUARDIA lo richiamò.
+Il CANE-GUARDIA-CATTIVO era troppo grosso. Abbaiò, frustrato. La voce dell'UOMO-GUARDIA lo richiamò.
 
 Corse finché le zampe non tremarono.
 
-/Se sei riuscito a seminare il CANE-GUARDIA, [[Vai al 43|43]]./
-/Se il CANE-GUARDIA ti ha raggiunto, [[Vai al 60|60]]./
+/Se non sei ferito e riesci a seminare il CANE-GUARDIA-CATTIVO, [[Vai al 43|43 arrivo al ristorante ma c'è qualcosa che non va]]./
+/Se sei ferito e il CANE-GUARDIA ti ha raggiunto, [[Vai al 60|60 GAME OVER CATTURATO]]./
 
 
-:: 42 {"position":"1850,5000","size":"100,100"}
+:: 42 arrivo al MONDO-DI-QUA {"position":"1850,5000","size":"100,100"}
 /* La via sicura */
 Scelse la prudenza.
 
@@ -638,11 +650,11 @@ Riprese. Il resto passò senza incidenti.
 
 Le prime case abitate del MONDO-DI-QUA apparvero col sole quasi al tramonto. Aveva perso tempo. Ma il sassolino era ancora nella busta.
 
-/Se riconosci la strada verso casa, [[Vai al 43|43]]./
-/Se ti sei perso e non sai più dove andare, [[Vai al 62|62]]./
+/Se riconosci la strada verso casa, [[Vai al 43|43 arrivo al ristorante ma c'è qualcosa che non va]]./
+/Se ti sei perso e non sai più dove andare, [[Vai al 62|62 GAME OVER TI SEI PERSO]]./
 
 
-:: 43 {"position":"1600,5300","size":"100,100"}
+:: 43 arrivo al ristorante ma c'è qualcosa che non va {"position":"1600,5300","size":"100,100"}
 /* La corsa finale */
 Corse verso casa.
 
@@ -656,14 +668,15 @@ Rallentò. L'odore di LA-PADRONCINA lo raggiunse. Sapone, cipolle. Ma sotto, qua
 
 LA-PADRONCINA sulla porta. Piangeva.
 
-L'UOMO-PAPÀ dietro, un foglio in mano. Stropicciato, come se qualcuno lo avesse stretto forte prima di aprirlo. Il viso dell'uomo bianco.
+L'UOMO-PAPÀ dietro, un foglio in mano. Stropicciato, come se qualcuno lo avesse stretto forte prima di aprirlo. Il viso dell'uomo era bianco.
+"Se li cacciano via anche dal ghetto dove andranno? Noi volevamo solo stare tranquilli non distruggere tutto."
 
 Non capiva cosa stesse succedendo. Ma capiva che era importante. Doveva arrivare.
 
-/[[Vai al 44|44]]./
+/[[Vai al 44|44 ritrova la PADRONCINA]]./
 
 
-:: 44 {"position":"1500,5700","size":"100,100"}
+:: 44 ritrova la PADRONCINA {"position":"1500,5700","size":"100,100"}
 /* Il ristorante */
 Uscì dall'ombra.
 
@@ -691,14 +704,13 @@ LA-PADRONCINA abbassò lo sguardo. Nonostante le lacrime — sorrise.
 
 «Bravo. Bravo cane.»
 
-/Se hai reso omaggio ai morti (gatto morente o macerie), [[Vai al 50|50]]./
-/Se hai preso la stoffa dalla cantina, [[Vai al 51|51]]./
-/Se hai aiutato qualcuno (gattini o bambino), [[Vai al 52|52]]./
-/Se sei stato inseguito dal CANE-GUARDIA, [[Vai al 53|53]]./
-/Se nessuna delle precedenti, [[Vai al 54|54]]./
+/Se hai reso omaggio ai morti (gatto morente o macerie), [[Vai al 50|50 FINALE IL SASSOLINO CALDO]]./
+/Se hai preso la stoffa dalla cantina, [[Vai al 51|51 FINALE — LA SCOPERTA]]./
+/Se hai aiutato qualcuno (gattini o bambino), [[Vai al 52|52 FINALE — L'EROE]]./
 
 
-:: 5 {"position":"800,1300","size":"100,100"}
+
+:: 5 - Trivio sentiero dei gatti {"position":"800,1300","size":"100,100"}
 /* Il Sentiero dei Gatti */
 Il varco tra i bidoni era stretto come una fessura. Ci si infilò di traverso.
 
@@ -714,12 +726,12 @@ A destra, l'aria si muoveva. Un'uscita verso est, verso il muro. Ma quell'aria p
 
 Dritto, una terza via. Un odore metallico, strano. Qualcosa di umano.
 
-/Se segui l'odore del gatto vecchio, verso la tana, [[Vai al 11|11]]./
-/Se vai verso l'aria fresca, rischiando il GATTO-SPIA, [[Vai al 12|12]]./
-/Se segui l'odore metallico sconosciuto, [[Vai al 13|13]]./
+/Se segui l'odore del gatto vecchio, verso la tana, [[Vai al 11|11 - il gatto morente]]./
+/Se vai verso l'aria fresca, rischiando il GATTO-SPIA, [[Vai al 12|12 - il GATTO SPIA]]./
+/Se segui l'odore metallico sconosciuto, [[Vai al 13|13 - la cantina nascosta con l'ODORE del RAGAZZO-SAMI]]./
 
 
-:: 50 [FINALE GOODENDING] {"position":"940,6050","size":"100,100"}
+:: 50 FINALE IL SASSOLINO CALDO [FINALE GOODENDING] {"position":"940,6050","size":"100,100"}
 /* FINALE — Il sassolino caldo */
 **FINALE — IL SASSOLINO CALDO**
 
@@ -737,7 +749,7 @@ Una lacrima le scivolò sulla guancia.
 
 Le leccò la mano. Il sapore del sale e della pietra e del calore.
 
-LA-PADRONCINA sorrise — un sorriso piccolo, tremante.
+LA-PADRONCINA sorrise — un sorriso piccolo.
 
 «Grazie. Per portarlo sempre. Per tornare sempre.»
 
@@ -752,7 +764,7 @@ Era abbastanza. Era tutto.
 **FINE**
 
 
-:: 51 [FINALE GOODENDING] {"position":"1220,6050","size":"100,100"}
+:: 51 FINALE — LA SCOPERTA [FINALE GOODENDING] {"position":"1525,6050","size":"100,100"}
 /* FINALE — La scoperta */
 **FINALE — LA SCOPERTA**
 
@@ -779,7 +791,7 @@ Non capiva tutto. Ma capiva che aveva fatto qualcosa di giusto. Qualcosa che and
 **FINE**
 
 
-:: 52 [FINALE GOODENDING] {"position":"1500,6050","size":"100,100"}
+:: 52 FINALE — L'EROE [FINALE GOODENDING] {"position":"1900,5925","size":"100,100"}
 /* FINALE — L'eroe */
 **FINALE — L'EROE**
 
@@ -797,60 +809,12 @@ Scodinzolò.
 
 «Sei un eroe. Lo sai, vero? Non solo per me e per Sami. Per tutti.»
 
-Lo abbracciò. E il cane capì che a volte la missione più importante non era quella assegnata. A volte era quella trovata lungo la strada.
+Lo abbracciò. E il cane capì che a volte la missione più importante non era solo quella assegnata. A volte era quella trovata lungo la strada.
 
 **FINE**
 
 
-:: 53 [FINALE] {"position":"1780,6050","size":"100,100"}
-/* FINALE — La consapevolezza */
-**FINALE — LA CONSAPEVOLEZZA**
-
-Restò sveglio quella notte.
-
-Qualcosa era cambiato. Non sapeva cosa, ma lo sentiva nell'aria. Il CANE-GUARDIA al checkpoint. Le voci degli UOMINI-GUARDIA. L'abbraccio di RAGAZZO-SAMI.
-
-RAGAZZO-SAMI lo aveva salutato. Non come si saluta qualcuno che si rivedrà domani. Come si saluta qualcuno che forse non si rivedrà mai.
-
-Capì. Non con la mente — con quella parte antica che sa quando qualcosa finisce.
-
-Camminò fino alla finestra, fino al sassolino. Lo annusò. L'odore di RAGAZZO-SAMI. Era tutto quello che restava.
-
-Domani sarebbe tornato. Avrebbe cercato RAGAZZO-SAMI dietro le casse. E se non lo avesse trovato, avrebbe cercato ancora. E ancora.
-
-Perché l'amore non si ferma davanti ai muri. Neanche quelli che dividono il mondo in due.
-
-**FINE**
-
-
-:: 54 [FINALE] {"position":"2060,6050","size":"100,100"}
-/* FINALE — La routine */
-**FINALE — LA ROUTINE**
-
-La sera scese sul ristorante.
-
-Era nella cuccia. Stanco, ma di un peso buono. Il peso di una missione compiuta.
-
-LA-PADRONCINA in cucina. Il sassolino sul davanzale.
-
-Domani sarebbe stato un altro giorno. Altra mujadara da portare, altro sassolino da riportare. Il ciclo sarebbe continuato.
-
-Non sapeva cosa ci fosse scritto su quel foglio. Non sapeva perché LA-PADRONCINA aveva pianto.
-
-Ma sapeva che era stato lì. Che aveva fatto la sua parte. Che il sassolino era arrivato.
-
-Doveva bastare.
-
-Dalla cucina, LA-PADRONCINA cominciò a canticchiare. Una melodia triste, ma con una nota di speranza.
-
-Chiuse gli occhi. Nei suoi sogni correva — in un mondo senza muri, dove RAGAZZO-SAMI e LA-PADRONCINA camminavano insieme, e lui correva loro accanto.
-
-Era un bel sogno.
-
-**FINE**
-
-
-:: 6 {"position":"1075,1050","size":"100,100"}
+:: 6 - Bivio Salvare i gattini {"position":"1075,1050","size":"100,100"}
 /* L'odore strano */
 Dritto. Sempre dritto, verso est. Verso quell'odore sconosciuto.
 
@@ -864,12 +828,12 @@ Ma oltre, seminascosto, un suono debole. Un miagolio.
 
 Si fermò. Guardò. Dietro il bidone: gattini. Tre o quattro, appena nati, gli occhi ancora chiusi. Accanto, immobile, la madre. Morta.
 
-/Se ignori i gattini e salti il bidone per continuare, [[Vai al 14|14]]./
-/Se ti avvicini per vedere se puoi aiutarli, [[Vai al 15|15]]./
-/Se torni indietro e prendi un'altra strada, [[Vai al 2|2]]./
+/Se ignori i gattini e salti il bidone per continuare, [[Vai al 14|14 - ignora i gattini abbandonati orfani]]./
+/Se ti avvicini per vedere se puoi aiutarli, [[Vai al 15|15 - salvataggio gattini]]./
+/Se torni indietro e prendi un'altra strada, [[Vai al 2|2 - La porta sul retro nel vicolo]]./
 
 
-:: 60 [FINALE GAMEOVER] {"position":"1000,5350","size":"100,100"}
+:: 60 GAME OVER CATTURATO [FINALE GAMEOVER] {"position":"1000,5350","size":"100,100"}
 /* GAME OVER — Catturato */
 **GAME OVER — CATTURATO**
 
@@ -880,6 +844,8 @@ Mani forti, guantate. Si divincolò, cercò di mordere. Troppe.
 Un UOMO-GUARDIA gli tolse la busta. Guardò dentro. Trovò il cibo. Trovò il bigliettino.
 
 Un altro rise. Una frase che suonava come uno scherzo crudele.
+
+"Rinchiudetelo. E' uno di quelli che portano cibo e conforto agli hamasnik. Ancora per poco."
 
 Lo portarono in una stanza fredda. Lo chiusero lì, solo.
 
@@ -893,10 +859,10 @@ Cercò di non dimenticare.
 
 **FINE**
 
-USARE IL FAIL FORWARD PER DARE INFORMAZIONI AGGIUNTIVE AL FINE DI CONOSCERE MEGLIO LA STORIA E DI RIUSCIRE MEGLIO LA PROSSIMA VOLTA
 
 
-:: 61 [FINALE GAMEOVER] {"position":"400,1850","size":"100,100"}
+
+:: 61 - **GAME OVER — FERITO* [FINALE GAMEOVER] {"position":"400,1850","size":"100,100"}
 /* GAME OVER — Ferito */
 **GAME OVER — FERITO**
 
@@ -921,7 +887,7 @@ Almeno quello non sarebbe morto con lui. Almeno quello sarebbe restato.
 USARE IL FAIL FORWARD PER DARE INFORMAZIONI AGGIUNTIVE AL FINE DI CONOSCERE MEGLIO LA STORIA E DI RIUSCIRE MEGLIO LA PROSSIMA VOLTA
 
 
-:: 62 [FINALE GAMEOVER] {"position":"2000,5350","size":"100,100"}
+:: 62 GAME OVER TI SEI PERSO [FINALE GAMEOVER] {"position":"2000,5350","size":"100,100"}
 /* GAME OVER — Perso */
 **GAME OVER — PERSO**
 
@@ -937,9 +903,9 @@ Ululò. Un suono lungo, triste. /Sono qui. Sono perso. Aiutatemi./
 
 Nessuno rispose.
 
-Si accucciò in un angolo sconosciuto.
+Si accucciò in un angolo sconosciuto. Due degli operai del CANTIERE passarono accanto a lui chiacchierando e ridendo; "Un giorno di guerra, dieci anni di lavoro"
 
-Pensò a LA-PADRONCINA. Al ristorante, alla cuccia, alla coperta morbida. A RAGAZZO-SAMI che aspettava.
+Non capiva la LINGUA-STRANA, ma pensò a LA-PADRONCINA. Al ristorante, alla cuccia, alla coperta morbida. A RAGAZZO-SAMI che aspettava.
 
 Avrebbe provato domani. Quando il sole tornava. Quando gli odori si facevano più forti.
 
@@ -947,10 +913,10 @@ Ma stanotte era solo. Stanotte era perso. Stanotte lontano da tutto quello che a
 
 **FINE**
 
-USARE IL FAIL FORWARD PER DARE INFORMAZIONI AGGIUNTIVE AL FINE DI CONOSCERE MEGLIO LA STORIA E DI RIUSCIRE MEGLIO LA PROSSIMA VOLTA
 
 
-:: 7 {"position":"1400,1075","size":"100,100"}
+
+:: 7 - Salta il muretto e vede il POSTO-BRUTTO {"position":"1400,1075","size":"100,100"}
 /* La via dei tetti */
 Il muretto era più alto di quanto ricordasse.
 
@@ -964,11 +930,11 @@ Guardò giù. Il vuoto gli girò lo stomaco.
 
 In lontananza, oltre i tetti, IL-POSTO-BRUTTO. Le macerie. Il muro. Quello che doveva attraversare.
 
-/Se scendi dalla scala antincendio sulla sinistra, [[Vai al 16|16]]./
-/Se prendi la rincorsa e salti il vuoto, [[Vai al 17|17]]./
+/Se scendi dalla scala antincendio sulla sinistra, [[Vai al 16|16 -. supera la scala antincendio]]./
+/Se prendi la rincorsa e salti il vuoto, [[Vai al 17|17 - il grande salto verso il POSTO-BRUTTO]]./
 
 
-:: 8 {"position":"1675,1050","size":"100,100"}
+:: 8 - Si nasconde dall'UOMO-PAPA' {"position":"1675,1050","size":"100,100"}
 /* Dietro il bancone */
 Scivolò dietro il bancone.
 
@@ -980,14 +946,16 @@ Aspettò che una porta si chiudesse. Scivolò fuori dal nascondiglio, uscì dall
 
 La strada era tranquilla. Il sole già alto. Doveva muoversi verso est.
 
-/[[Vai al 18|18]]./
+/[[Vai al 18|18 - la strada principale e gli UOMINI-GUARDIA]]./
 
 
-:: 9 {"position":"1950,1050","size":"100,100"}
+:: 9 - fugge dall'UOMO PAPA' {"position":"1950,1050","size":"100,100"}
 /* La fuga */
 Non c'era tempo per pensare.
 
 Si lanciò contro la porta. La luce del sole lo colpì. Dietro, la voce dell'UOMO-PAPÀ — un suono di rabbia, di sorpresa.
+
+"Scommetto che questo //kelev metuhnaf // va daccapo nel ghetto!! Vai e non tornare più! "
 
 Corse. La porta del ristorante sbatté, passi pesanti sulla soglia. Svoltò l'angolo. La voce scomparve.
 
@@ -995,7 +963,7 @@ Si fermò sotto una macchina, ansimando. Ce l'aveva fatta. Ma L'UOMO-PAPÀ lo av
 
 Non importava. La missione veniva prima.
 
-/[[Vai al 18|18]]./
+/[[Vai al 18|18 - la strada principale e gli UOMINI-GUARDIA]]./
 
 
 :: intro {"position":"1700,100","size":"100,100"}
@@ -1006,7 +974,7 @@ Un librogame di Riccardo Scaringi
 
 Un cane nero attraversa il confine ogni giorno. Porta cibo e parole in una direzione, speranza e silenzio nell'altra. Non capisce la guerra degli umani, ma capisce l'amore. E l'amore non conosce muri.
 
-[[Vai al 1|1]].
+[[Vai al 1|1 - Inizia la missione]].
 
 
 :: rules {"position":"1300,100","size":"100,100"}
@@ -1021,4 +989,4 @@ Il tuo compito: portare la mujadara e un bigliettino a Sami, riportare indietro 
 
 Ma la strada è piena di pericoli, scelte, incontri. E oggi qualcosa sembra diverso.
 
-Inizia dal paragrafo [[1]].
+Inizia dal paragrafo [[1 - Inizia la missione]].
