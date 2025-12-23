@@ -73,7 +73,7 @@
       <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
     </entity>
     <entity group="" name="10" type="chapter">
-      <attribute name="description" type="string"><![CDATA[<p align="justify">La mujadara cantava.</p><p align="justify"></p><p align="justify">Sapeva che era sbagliato. Ma la mujadara cantava, e le zampe si muovevano da sole.</p><p align="justify"></p><p align="justify">Si avvicin&#242; al fornello. la PADRONCINA era girata. Si alz&#242; sulle zampe posteriori...</p><p align="justify"></p><p align="justify">Lei si volt&#242; di scatto. Lo guard&#242; con quegli occhi che sapevano tutto.</p><p align="justify"></p><p align="justify">&#171;No.&#187; Solo quello. Il tono teso, nervoso. Non c'era spazio per giochi oggi.</p><p align="justify"></p><p align="justify">Abbass&#242; le orecchie. Si allontan&#242; dal fornello.</p><p align="justify"></p><p align="justify">La PADRONCINA sospir&#242;. Si inginocchi&#242;, gli accarezz&#242; la testa.</p><p align="justify"></p><p align="justify">&#171;Mi dispiace. &#200; che... oggi &#232; diverso. Ho paura. Se torni presto dal ghetto ti do' un dolcetto.&#187;</p><p align="justify"></p><p align="justify">I suoi occhi brillavano.</p><p align="justify"></p><p align="justify">&#171;Vai. E torna.&#187;</p><p align="justify"></p><p align="justify"><i>Se esci dalla porta sul retro, vai al [17]</i></p><p align="justify"></p><p align="justify"><i>Se attraversi il ristorante verso la porta principale, vai al [8]</i></p>
+      <attribute name="description" type="string"><![CDATA[<p align="justify">La mujadara cantava.</p><p align="justify"></p><p align="justify">Sapeva che era sbagliato. Ma la mujadara cantava, e le zampe si muovevano da sole.</p><p align="justify"></p><p align="justify">Si avvicin&#242; al fornello. La PADRONCINA era girata. Si alz&#242; sulle zampe posteriori...</p><p align="justify"></p><p align="justify">Lei si volt&#242; di scatto. Lo guard&#242; e disse: &#171;No.&#187; Solo quello. </p><p align="justify">Il tono teso, nervoso. Non c'era spazio per i giochi oggi.</p><p align="justify"></p><p align="justify">Abbass&#242; le orecchie. Si allontan&#242; dal fornello.</p><p align="justify"></p><p align="justify">La PADRONCINA sospir&#242;. Si inginocchi&#242;, gli accarezz&#242; la testa.</p><p align="justify"></p><p align="justify">&#171;Mi dispiace. &#200; che... oggi &#232; diverso. Ho paura. Se torni presto dal ghetto ti do' un dolcetto.&#187;</p><p align="justify"></p><p align="justify">I suoi occhi brillavano.</p><p align="justify"></p><p align="justify">&#171;Vai. E torna.&#187;</p><p align="justify"></p><p align="justify"><i>Se esci dalla porta sul retro, vai al [17]</i></p><p align="justify"></p><p align="justify"><i>Se attraversi il ristorante verso la porta principale, vai al [8]</i></p>
   ]]></attribute>
       <attribute name="chapter_title" type="string"><![CDATA[Il tentativo fallito]]></attribute>
       <attribute name="hashtags" type="array"/>
@@ -392,10 +392,10 @@
       <attribute name="title" type="string"><![CDATA[Il Sassolino Bianco]]></attribute>
       <attribute name="author" type="string"><![CDATA[Riccardo Scaringi]]></attribute>
       <attribute name="version" type="string"><![CDATA[4.0]]></attribute>
-      <attribute name="revision" type="integer"><![CDATA[66]]></attribute>
+      <attribute name="revision" type="integer"><![CDATA[86]]></attribute>
       <attribute name="editing_action" type="string"><![CDATA[WRITING]]></attribute>
       <attribute name="table_of_contents" type="string"><![CDATA[rules§intro§P(ALL)]]></attribute>
-      <attribute name="editing_chapter" type="string"><![CDATA[33]]></attribute>
+      <attribute name="editing_chapter" type="string"><![CDATA[10]]></attribute>
     </entity>
     <entity group="setup" name="global_attributes" type="entity">
       <attribute name="description" type="string"><![CDATA[<p></p>]]></attribute>
