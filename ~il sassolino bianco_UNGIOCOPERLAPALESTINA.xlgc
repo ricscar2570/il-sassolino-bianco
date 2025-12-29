@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><book producer="LGC" producer_version="3.4.3.447" schema_version="1.0">
+  <entities>
+    <entity group="" name="1" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Il mondo era fatto di odori, e questa mattina il profumo pi&#249; forte era quello della mujadara.</p><p align="justify"></p><p align="justify">Saliva dalla cucina in volute dense: riso, lenticchie, e sopra tutto il profumo dorato delle cipolle che friggevano. Dalla cuccia, la coda batteva contro il legno consumato.</p><p align="justify"></p><p align="justify">LA-PADRONCINA era ai fornelli. Grembiule blu, treccia sulla schiena, mani sicure. Quando cucinava sembrava pi&#249; vecchia &#8212; come sua madre, che il cane ricordava solo come un odore lontano.</p><p align="justify"></p><p align="justify">Si volt&#242;. I suoi occhi lo trovarono. Sorrisero.</p><p align="justify"></p><p align="justify">&#171;&#200; quasi pronta.&#187;</p><p align="justify"></p><p align="justify">Poi, pi&#249; piano, pronunci&#242; il nome che non si diceva mai ad alta voce. <i>Sami</i>. Il ragazzo che conosceva fin da quando erano bambini. Le orecchie si Sababa si drizzarono.</p><p align="justify"></p><p align="justify">Liora si avvicin&#242; con la busta di tela, ci mise il contenitore caldo, un bigliettino piegato e si inginocchi&#242;.</p><p align="justify"></p><p align="justify">&#171;Oggi &#232; importante.&#187; La voce le tremava. &#171;Devi fare attenzione, Sababa. Pi&#249; del solito.&#187;</p><p align="justify"></p><p align="justify">Fiss&#242; la busta al collare. Gli accarezz&#242; la testa.</p><p align="justify"></p><p align="justify">&#171;Vai. E torna.&#187;</p><p align="justify"></p><p align="justify">La missione era chiara: portare la busta al RAGAZZO-SAMI, oltre il muro. Tornare con il sassolino bianco.</p><p align="justify"></p><p align="justify"><i>vai al [15]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La missione]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[true]]></attribute>
+    </entity>
+    <entity group="" name="2" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"><b>GAME OVER &#8212; CATTURATO</b></p><p align="justify"></p><p align="justify">La zampa ferita cedette. Le mani lo afferrarono.</p><p align="justify"></p><p align="justify">Un UOMO-GUARDIA gli tolse la busta e trov&#242; il cibo. Trov&#242; anche il sassolino.</p><p align="justify"></p><p align="justify">L'altro rise. Il cane non capiva le parole, ma ne capiva il tono &#8212; duro, sprezzante.</p><p align="justify"></p><p align="justify">Lo portarono in una stanza fredda e lo chiusero l&#236;, solo.</p><p align="justify"></p><p align="justify">Si accucci&#242; in un angolo. Pens&#242; a LA-PADRONCINA. A RAGAZZO-SAMI. Al sassolino che non sarebbe mai arrivato.</p><p align="justify"></p><p align="justify">Cerc&#242; di ricordare l'odore di casa. L'odore della mujadara. L'odore di lei.</p><p align="justify"></p><p align="justify">Cerc&#242; di non dimenticare. E quando cominci&#242; a sognare, se i cani possono davvero farlo, sogn&#242; di migliaia di cani che come lui facevano da ponte tra due mondi cercando di non far vincere l'odio sopra l'amore.</p><p align="justify"></p><p align="justify"><b>FINE</b></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Catturato]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[GAMEOVER]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="3" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Il RAGAZZO-SAMI, poi, fece qualcosa che non aveva mai fatto.</p><p align="justify"></p><p align="justify">Si chin&#242; e lo abbracci&#242;. A lungo, stretto. Il cane sent&#236; il battito del suo cuore &#8212; veloce, irregolare, sent&#236; il tremore delle braccia. Qualcosa di bagnato sul pelo: lacrime.</p><p align="justify"></p><p align="justify">RAGAZZO-SAMI piangeva.</p><p align="justify"></p><p align="justify">Si stacc&#242;. Si asciug&#242; gli occhi. Disse qualcosa &#8212; il tono era quello di un addio.</p><p align="justify"></p><p align="justify">C'era qualcosa di diverso in questo momento. Qualcosa che non c'era mai stato. Come si sente l'arrivo della pioggia prima che cada la prima goccia.</p><p align="justify"></p><p align="justify"><i>Se resti ancora un momento con lui, vai al [5]</i></p><p align="justify"></p><p align="justify"><i>Se parti subito per tornare, vai al [21]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[L'abbraccio]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="4" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"><b>FINALE &#8212; IL SASSOLINO CALDO</b></p><p align="justify"></p><p align="justify">LA-PADRONCINA non lasci&#242; il sassolino quella notte.</p><p align="justify"></p><p align="justify">Lo tenne nel pugno, cos&#236; stretto che le nocche erano bianche. Il cane la guardava dalla cuccia.</p><p align="justify"></p><p align="justify">A un certo punto si sedette accanto a lui. Apr&#236; la mano. Il sassolino era caldo &#8212; caldo come se fosse vivo.</p><p align="justify"></p><p align="justify">&#171;Sai cosa significa?&#187; Guardava il sassolino. &#171;Significa che sta bene.&#187;</p><p align="justify"></p><p align="justify">Una lacrima le scivol&#242; sulla guancia.</p><p align="justify"></p><p align="justify">&#171;Ma sai cosa penso? Penso che a volte diciamo &#8220;sto bene&#8221; anche quando non &#232; vero. Perch&#233; non vogliamo che gli altri si preoccupino.&#187;</p><p align="justify"></p><p align="justify">Le lecc&#242; la mano. Il sapore del sale e della pietra e del calore.</p><p align="justify"></p><p align="justify">Sorrise. Un sorriso piccolo.</p><p align="justify"></p><p align="justify">&#171;Grazie. Per portarlo sempre. Per tornare sempre.&#187;</p><p align="justify"></p><p align="justify">Il sassolino era caldo nella sua mano. Tiepido del calore di RAGAZZO-SAMI. Caldo di tutto quello che non si poteva dire.</p><p align="justify"></p><p align="justify">&#171;Domani gli manderemo qualcosa di speciale. Qualcosa che gli dica che lo amiamo. Che siamo qui. Che non ci dimentichiamo.&#187;</p><p align="justify"></p><p align="justify">Scodinzol&#242;. Era abbastanza. Era tutto.</p><p align="justify"></p><p align="justify">Ma mentre scodinzolava, una parte di lui sapeva quello che LA-PADRONCINA non diceva: che i sassolini a volte mentono. Che &#171;sto bene&#187; a volte significa &#171;non voglio che tu ti preoccupi&#187;. Che domani sarebbe tornato, e il giorno dopo, e quello dopo ancora.</p><p align="justify"></p><p align="justify">Finch&#233; ci fosse stato qualcuno ad aspettarlo.</p><p align="justify"></p><p align="justify"><b>FINE</b></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il sassolino caldo]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[FINALE]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="5" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Sababa non si mosse.</p><p align="justify"></p><p align="justify">RAGAZZO-SAMI lo guard&#242; sorpreso. Cap&#236;. Si sedette, e il cane si sdrai&#242; accanto a lui, il fianco contro la sua gamba.</p><p align="justify"></p><p align="justify">Restarono cos&#236;. In silenzio. Il sole si muoveva nel cielo.</p><p align="justify"></p><p align="justify">RAGAZZO-SAMI cominci&#242; a parlare. Quasi a se stesso. Il ritmo delle sue parole era quello di una storia, di un ricordo. Di qualcosa che andava detto prima che fosse troppo tardi.</p><p align="justify"></p><p align="justify">Sababa non capiva, ma le ascolt&#242; lo stesso, perch&#233; a volte ascoltare &#232; pi&#249; importante di capire.</p><p align="justify"></p><p align="justify">&#171;Mia madre ogni mattina, prima che uscissi per la scuola, lo metteva sul davanzale. Bianco, liscio, caldo di sole. &#8220;Se torni e il sassolino c'&#232;,&#8221; diceva, &#8220;significa che sono qui. Che va tutto bene. Che puoi entrare.&#8221;&#187;</p><p align="justify"></p><p align="justify">&#171;Era un gioco. Un gioco stupido tra me e lei.&#187;</p><p align="justify"></p><p align="justify">&#171;Un giorno, dopo che Al-Jesh aveva lanciato tantissime bombe su Gaza, tornai e il sassolino non c'era. La finestra non c'era. Il davanzale non c'era. La casa non c'era.&#187;</p><p align="justify"></p><p align="justify">&#171;Ho scavato. Con le mani. Per ore. I vicini mi tiravano via e io tornavo a scavare. Non cercavo mia madre &#8212; sapevo dov'era mia madre, lo sapevano tutti dov'era, era morta l&#224; sotto &#8212; cercavo il sassolino.&#187;</p><p align="justify"></p><p align="justify">&#171;Lo trovai tre giorni dopo. A venti metri da dove c'era stata la porta. Bianco, liscio. Sporco di polvere grigia.&#187;</p><p align="justify"></p><p align="justify">&#171;Ce l'ho ancora. Qui, in tasca. Lo tocco quando ho paura. Quando non ricordo la sua faccia.&#187;</p><p align="justify"></p><p align="justify">Si ferm&#242;. Guard&#242; il cane negli occhi.</p><p align="justify"></p><p align="justify">&#171;Grazie.&#187;</p><p align="justify"></p><p align="justify">Questa parola la conosceva. Non aveva capito le parole della storia. Ma aveva capito il dolore. Aveva capito che RAGAZZO-SAMI aveva bisogno di raccontarla.</p><p align="justify"></p><p align="justify">Si alz&#242;. Indic&#242; verso ovest. Verso il muro. Verso casa. &#171;Vai, Sababa. Torna da Liora.&#187;</p><p align="justify"></p><p align="justify">Era ora di andare.</p><p align="justify"></p><p align="justify"><i>Vai al [21]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il sassolino]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="6" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Pass&#242; con cautela. La lamiera gli sfior&#242; il pelo, niente di pi&#249;.</p><p align="justify"></p><p align="justify">Emerse dall'altra parte. Il MONDO-DI-L&#192; lo accolse con polvere e sabbia. IL-CANTIERE in lontananza. E l'odore di RAGAZZO-SAMI &#8212; come un filo d'oro in un tessuto grigio.</p><p align="justify"></p><p align="justify">IL-CANTIERE era silenzioso. Troppo: di solito c'erano rumori &#8212; martelli, voci, macchine. Oggi niente.</p><p align="justify"></p><p align="justify">Avanz&#242; perch&#232; l'odore di RAGAZZO-SAMI era forte. Ma sotto c'era un altro odore. Paura. Sudore freddo.</p><p align="justify"></p><p align="justify">Gir&#242; l'angolo delle casse dove si nascondeva sempre.</p><p align="justify"></p><p align="justify">Eccolo. Seduto con le ginocchia al petto. Occhi rossi e le mani che gli tremavano.</p><p align="justify"></p><p align="justify">Quando lo vide, qualcosa nei suoi occhi si illumin&#242;, ma era una luce fragile.</p><p align="justify"></p><p align="justify"><i>vai al [8]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il cantiere]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="7" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Usc&#236; dall'ombra.</p><p align="justify"></p><p align="justify">LA-PADRONCINA lo vide. Con gli occhi spalancati corse verso di lui e si inginocchi&#242; nella polvere.</p><p align="justify"></p><p align="justify">&#171;Sei tornato!&#187; La voce incrinata. &#171;Sei tornato.&#187;</p><p align="justify"></p><p align="justify">Lo strinse e le sue lacrime bagnarono il pelo nero di Sababa.</p><p align="justify"></p><p align="justify">Apr&#236; la busta e il sassolino. Bianco, liscio, ancora caldo lo scivol&#242; nella mano di Liora.</p><p align="justify"></p><p align="justify">Lo prese tra le dita e lo guard&#242; come se fosse un tesoro.</p><p align="justify"></p><p align="justify">&#171;Sta bene.&#187; Un sussurro. &#171;Il sassolino bianco. Significa che sta bene.&#187;</p><p align="justify"></p><p align="justify">Ma la voce non era convinta. Gli occhi di Sababa andarono verso l'UOMO-PAP&#192;, verso quel foglio. Verso i vicini che scuotevano la testa.</p><p align="justify"></p><p align="justify">Non capiva. Non capiva perch&#233; Liora piangesse, se il sassolino diceva che tutto andava bene.</p><p align="justify"></p><p align="justify">Ma capiva che LA-PADRONCINA aveva bisogno di lui. Si premette contro le sue gambe. Solido. Presente.</p><p align="justify"></p><p align="justify">Nonostante le lacrime &#8212; sorrise.</p><p align="justify"></p><p align="justify">&#171;Bravo, Sababa.&#187;</p><p align="justify"></p><p align="justify"><i>Se hai la condizione HAI AIUTATO QUALCUNO, vai al [26]</i></p><p align="justify"></p><p align="justify"><i>Se hai la condizione HAI RESO OMAGGIO AI MORTI, vai al [4]</i></p><p align="justify"></p><p align="justify"><i>Altrimenti, vai al [20]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il ricongiungimento]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="8" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Il RAGAZZO-SAMI allung&#242; la mano.</p><p align="justify"></p><p align="justify">Il cane attravers&#242; lo spazio, spinse il muso contro il suo palmo. Per un momento tutto scomparve &#8212; il cantiere, il muro, la paura. Solo quel contatto.</p><p align="justify"></p><p align="justify">Le dita trovarono la busta. L'aprirono e presero la mujadara e il bigliettino.</p><p align="justify"></p><p align="justify">Lesse in silenzio. Le labbra si muovevano, formando parole che il cane non capiva. Pieg&#242; il bigliettino, lo mise in tasca, vicino al cuore.</p><p align="justify"></p><p align="justify">Prese un po' di mujadara e la offr&#236; a Sababa.</p><p align="justify"></p><p align="justify">Rimise il contenitore nella busta. Tir&#242; fuori qualcosa dalla tasca. Il sassolino. Bianco, liscio, caldo del suo calore. Lo mise nella busta.</p><p align="justify"></p><p align="justify">Ma non la richiuse.</p><p align="justify"></p><p align="justify">Guard&#242; il cane con gli occhi velati. Parl&#242; a lungo. La voce gli tremava. Il cane non capiva le parole, ma il loro suono era quello disperato di chi non sa dove andr&#224;.</p><p align="justify"></p><p align="justify"><i>Vai al [3]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[L'incontro]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="9" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Entr&#242; nelle macerie.</p><p align="justify"></p><p align="justify">Sent&#236; il suolo cambiare sotto le zampe: dall'asfalto alla polvere grigia. L'odore ovunque &#8212; cemento, ferro, e quel silenzio che hanno i luoghi dove qualcuno &#232; morto.</p><p align="justify"></p><p align="justify">Non qualcosa. Qualcuno. Tanti.</p><p align="justify"></p><p align="justify">A met&#224; percorso, i resti di una casa. Due muri in piedi, una finestra senza vetri. Per terra, una scarpa. Piccola. Da cucciolo d'umano.</p><p align="justify"></p><p align="justify">Non la annus&#242;. Sapeva cosa avrebbe trovato.</p><p align="justify"></p><p align="justify">Riprese a camminare. IL-BUCO-CHE-CONOSCO era l&#224;.</p><p align="justify"></p><p align="justify"><i>Vai al [10]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Le macerie]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="10" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">IL-BUCO-CHE-CONOSCO era dove l'aveva lasciato.</p><p align="justify"></p><p align="justify">Un varco nel muro &#8212; troppo piccolo per un umano, troppo nascosto per essere notato. Spost&#242; la lamiera con il muso, si infil&#242;.</p><p align="justify"></p><p align="justify">Buio. Solo l'odore umido della terra, il freddo dei mattoni sotto le zampe.</p><p align="justify"></p><p align="justify">A met&#224; si blocc&#242;. Oggi c'era qualcosa di diverso, un odore nuovo. Qualcuno era passato di qui, qualcuno che non era RAGAZZO-SAMI.</p><p align="justify"></p><p align="justify">E qualcos'altro. Una lamiera nuova, messa di traverso. Tagliente.</p><p align="justify"></p><p align="justify"><i>Se passi con cautela ma rischi di fare tardi, vai al [6]</i></p><p align="justify"></p><p align="justify"><i>Se ti affretti e ti lanci veloce (ma rischi di ferirti), vai al [19]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il buco]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="11" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">L'odore chimico diventava pi&#249; forte. Pizzicava il muso.</p><p align="justify"></p><p align="justify">A met&#224; vicolo, un bidone con scritte rosse. Accanto, un umano addormentato &#8212; o svenuto. Puzzava di sudore vecchio.</p><p align="justify"></p><p align="justify">Non era del quartiere. Non importava.</p><p align="justify"></p><p align="justify">Aggir&#242; il bidone, scroll&#242; le zampe. Continu&#242;.</p><p align="justify"></p><p align="justify"><i>Vai al [18]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[L'odore strano]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="12" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">La transenna era dove l'aveva lasciata. Metallo arrugginito, piegato in un angolo. Segnava uno dei confini tra MONDO-DI-QUA e MONDO-DI-L&#192;.</p><p align="justify"></p><p align="justify">Si blocc&#242; e annus&#242;.</p><p align="justify"></p><p align="justify">UOMINI-GUARDIA. Non li vedeva, ma li sentiva. Pi&#249; del solito. Forse era questo quello che non andava oggi: ce n'erano troppe in giro.</p><p align="justify"></p><p align="justify">Oltre la transenna: IL-POSTO-BRUTTO. Muri crollati, macerie, l'odore di qualcosa morto tempo fa.</p><p align="justify"></p><p align="justify">Il RAGAZZO-SAMI era dall'altra parte.</p><p align="justify"></p><p align="justify">Poteva fare due cose: attraversare le macerie. O fermarsi un momento. Respirare. Riconoscere.</p><p align="justify"></p><p align="justify"><i>Se attraversi IL-POSTO-BRUTTO direttamente, vai al [9]</i></p><p align="justify"></p><p align="justify"><i>Se ti fermi un momento tra le macerie, vai al [17]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La transenna]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="13" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Il muretto era pi&#249; alto di quanto ricordasse.</p><p align="justify"></p><p align="justify">Salt&#242;. Per un istante sospeso nell'aria, poi le zampe trovarono la presa. Si iss&#242; e rest&#242; l&#236; un momento.</p><p align="justify"></p><p align="justify">I tetti del quartiere si stendevano davanti a lui, verso est. La via dei tetti. L'aveva fatta solo due volte.</p><p align="justify"></p><p align="justify">Il primo tratto era facile &#8212; tetti piatti erano collegati da muretti bassi. Poi il salto. Un vuoto di due metri tra due palazzi, con sotto un cortile.</p><p align="justify"></p><p align="justify">Guard&#242; gi&#249;. Il vuoto fece fare un capitombolo al suo stomaco di cane.</p><p align="justify"></p><p align="justify">In lontananza, oltre i tetti c'era IL-POSTO-BRUTTO. Le macerie. Il muro.</p><p align="justify"></p><p align="justify"><i>Se prendi la rincorsa e salti il vuoto, vai al [16]</i></p><p align="justify"></p><p align="justify"><i>Se scendi dalla scala antincendio (pi&#249; sicuro), vai al [18]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La via dei tetti]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="14" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Segu&#236; l'odore.</p><p align="justify"></p><p align="justify">In un vicolo cieco, un bambino. Piccolo, quattro o cinque anni. Seduto per terra, le guance rigate di lacrime secche. Si era perso.</p><p align="justify"></p><p align="justify">Quando vide il cane, gli occhi si spalancarono. Paura. Poi qualcos'altro. Speranza.</p><p align="justify"></p><p align="justify">Il cane si avvicin&#242; piano. Si sedette davanti a lui. Aspett&#242;.</p><p align="justify"></p><p align="justify">Il bambino allung&#242; una mano tremante. Tocc&#242; il pelo nero. Sorrise.</p><p align="justify"></p><p align="justify">Si alz&#242;. Il cane cominci&#242; a camminare verso le voci degli umani. Il bambino lo segu&#236;, una mano aggrappata al pelo.</p><p align="justify"></p><p align="justify">Una donna grid&#242;. Corse verso di loro. Abbracci&#242; il bambino singhiozzando. Guard&#242; il cane con occhi pieni di gratitudine.</p><p align="justify"></p><p align="justify">Disse qualcosa. Non cap&#236; le parole, ma cap&#236; il tono. <i>Grazie</i>.</p><p align="justify"></p><p align="justify"><i>Segna la condizione <b>HAI AIUTATO QUALCUNO</b>.</i></p><p align="justify"></p><p align="justify"><i>vai al [22]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il bambino perso]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[AIUTO]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="15" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">La porta sul retro puzzava di legno umido e vernice scrostata. Spinse con la zampa e si apr&#236; cigolando.</p><p align="justify"></p><p align="justify">Il vicolo era stretto. Bidoni da una parte, un tubo che gocciolava acqua grigia dall'altra. In fondo, luce.</p><p align="justify"></p><p align="justify">Tre vie possibili.</p><p align="justify"></p><p align="justify">Dritto, il vicolo portava un odore strano. Chimico. Qualcosa di nuovo.</p><p align="justify"></p><p align="justify">A sinistra, il buco nel muro &#8212; la scorciatoia di sempre.</p><p align="justify"></p><p align="justify">A destra, il muretto. Da l&#236; partiva la via dei tetti.</p><p align="justify"></p><p align="justify"><i>Se vai dritto verso l'odore strano, vai al [11]</i></p><p align="justify"></p><p align="justify"><i>Se prendi la scorciatoia di sempre, vai al [18]</i></p><p align="justify"></p><p align="justify"><i>Se salti sul muretto e prendi la via dei tetti, vai al [13]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La porta sul retro]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="16" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Prese la rincorsa.</p><p align="justify"></p><p align="justify">Tre zampate, quattro, cinque &#8212; il bordo del tetto e il salto. Per un istante terribile, sospeso nel vuoto, il cortile sotto e la morte, il tetto davanti che sembrava troppo lontano, troppo lontano &#8212;</p><p align="justify"></p><p align="justify">Le zampe anteriori colpirono il bordo. Graffiarono. Scivolarono. Per un secondo pens&#242; di cadere. Le posteriori trovarono la presa. Spinse, spinse con tutto il corpo, si iss&#242; sul tetto.</p><p align="justify"></p><p align="justify">Rest&#242; ansimando, abbai&#242; al suo cuore che lo assordava con i suoi battiti accelerati ed il suo cuore gli abbai&#242; in risposta di non provarci mai pi&#249;..</p><p align="justify"></p><p align="justify">Ma ce l'aveva fatta, era dall'altra parte.</p><p align="justify"></p><p align="justify">In lontananza, IL-POSTO-BRUTTO lo aspettava. Il muro. La polvere. Il RAGAZZO-SAMI.</p><p align="justify"></p><p align="justify">Trov&#242; la scala di servizio e scese.</p><p align="justify"></p><p align="justify"><i>vai al [12]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il grande salto]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="17" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Si ferm&#242;.</p><p align="justify"></p><p align="justify">Non sapeva perch&#233;. Le zampe smisero di muoversi, in un punto senza niente di speciale. Solo macerie. Solo polvere. Solo silenzio.</p><p align="justify"></p><p align="justify">Si sedette. Guard&#242; intorno.</p><p align="justify"></p><p align="justify">C'erano state case, qui. Vite. Risate e pianti. Odori di cucina, di sonno, di amore. Adesso c'era solo polvere.</p><p align="justify"></p><p align="justify">Abbass&#242; la testa. Non era una preghiera ma solo un modo per dire: <i><b>vi vedo. So che eravate qui. Non siete dimenticati</b></i><b>.</b></p><p align="justify"></p><p align="justify">Rest&#242; l&#236; per un tempo che non seppe misurare. Poi si alz&#242;.</p><p align="justify"></p><p align="justify">Qualcosa era diverso. Pi&#249; leggero e pi&#249; pesante insieme.</p><p align="justify"></p><p align="justify"><i>Segna la condizione <b>HAI RESO OMAGGIO AI MORTI</b>.</i></p><p align="justify"></p><p align="justify"><i>vai al [10]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[L'omaggio]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[OMAGGIO]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="18" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Aveva superato il quartiere. La strada saliva e l'aria cambiava: meno sale, pi&#249; polvere.</p><p align="justify"></p><p align="justify">IL-POSTO-BRUTTO era vicino. Lo sentiva nell'odore &#8212; cemento, ferro, e qualcosa di pi&#249; antico.</p><p align="justify"></p><p align="justify">Una vecchia sedeva davanti a una casa, spennando una gallina. Alz&#242; la testa quando pass&#242; e lo guard&#242; con occhi stanchi, ma acuti.</p><p align="justify"></p><p align="justify">Conosceva Sababa. Lo vedeva passare ogni giorno, sempre nella stessa direzione, sempre con quella busta al collare.</p><p align="justify"></p><p align="justify">Disse qualcosa. Sababa non cap&#236; le parole, ma ne cap&#236; il tono. Un avvertimento.</p><p align="justify"></p><p align="justify">&#171;Attento oggi al ghetto, Sababa.&#187;</p><p align="justify"></p><p align="justify">La vecchai torn&#242; alla sua gallina.</p><p align="justify"></p><p align="justify"><i>Vai al [12]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La vecchia]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="19" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Si lanci&#242;. La lamiera gli procur&#242; un taglio profondo sulla zampa.</p><p align="justify"></p><p align="justify">Dolore. Sangue caldo. Ma pass&#242; subito, e continu&#242; a correre perch&#232; la missione era pi&#249; importante.</p><p align="justify"></p><p align="justify">Emerse dall'altra parte zoppicando. Il MONDO-DI-L&#192; lo accolse con polvere e sabbia. IL-CANTIERE in lontananza.</p><p align="justify"></p><p align="justify">Sent&#236; subito l'odore di RAGAZZO-SAMI &#8212; come un filo d'oro in un tessuto grigio, ma IL-CANTIERE era silenzioso. Troppo. Di solito c'erano rumori &#8212; martelli, voci, macchine. Oggi niente.</p><p align="justify"></p><p align="justify">L'odore di RAGAZZO-SAMI era forte. Ma sotto, un altro odore. Paura.</p><p align="justify"></p><p align="justify">Gir&#242; l'angolo delle casse dove lui si nascondeva sempre.</p><p align="justify"></p><p align="justify">Eccolo. Lo vide attraverso il pulsare della zampa ferita. Seduto con le ginocchia al petto, occhi rossi, mani che tremavano.</p><p align="justify"></p><p align="justify">Quando lo vide arrivare zoppicando, qualcosa nei suoi occhi si illumin&#242;, ma era una luce molto fioca.</p><p align="justify"></p><p align="justify"><i>Segna la condizione FERITO.</i></p><p align="justify"></p><p align="justify"><i>Vai al [8]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La ferita]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[FERITO]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="20" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"><b>FINALE &#8212; IL MESSAGGERO</b></p><p align="justify"></p><p align="justify">LA-PADRONCINA mise il sassolino sul davanzale. Accanto alla foto di sua madre.</p><p align="justify"></p><p align="justify">Il cane la guardava dalla cuccia.</p><p align="justify"></p><p align="justify">&#171;Sai cosa sei?&#187; disse, senza voltarsi. &#171;Sei un ponte. L'unico ponte rimasto tra due mondi che non vogliono pi&#249; parlarsi.&#187;</p><p align="justify"></p><p align="justify">Si volt&#242;. Gli occhi lucidi, ma la voce ferma.</p><p align="justify"></p><p align="justify">Si inginocchi&#242;, gli accarezz&#242; la testa.</p><p align="justify"></p><p align="justify">&#171;Grazie, Sababa. Per non arrenderti mai.&#187;</p><p align="justify"></p><p align="justify">Non capiva tutte le parole. Ma capiva l'amore che contenevano.</p><p align="justify"></p><p align="justify">E l'amore era abbastanza.</p><p align="justify"></p><p align="justify"><b>FINE</b></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il messaggero]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[FINALE]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="21" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Si volt&#242; verso ovest. La cosa pi&#249; difficile &#8212; voltare le spalle a RAGAZZO-SAMI, lasciarlo l&#236;.</p><p align="justify"></p><p align="justify">Ma era quello che aveva sempre fatto.</p><p align="justify"></p><p align="justify">IL-BUCO-CHE-CONOSCO era l&#224;, seminascosto. Era la via del ritorno, ma qualcosa dentro di lui diceva che oggi la velocit&#224; contava. L'odore nuovo nel tunnel, l'abbraccio del RAGAZZO-SAMI, le sue lacrime dicevano ai suoi sensi canini che oggi era diverso dagli altri giorni.</p><p align="justify"></p><p align="justify">Aveva due opzioni. IL-BUCO-CHE-CONOSCO &#8212; la via veloce. Oppure la via lunga, che aggirava il muro.</p><p align="justify"></p><p align="justify">Il sassolino nella busta pesava. Non pesava davvero &#8212; ma pesava lo stesso.</p><p align="justify"></p><p align="justify"><i>Se torni per IL-BUCO-CHE-CONOSCO, vai al [24]</i></p><p align="justify"></p><p align="justify"><i>Se prendi la via lunga che aggira tutto, vai al [25]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Il ritorno]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="22" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">La transenna pass&#242; come un lampo. Le strade del MONDO-DI-QUA, quelle che conosceva a memoria. L'aria tornava a sapere di mare.</p><p align="justify"></p><p align="justify">Doveva fare presto: il sole tramontava e LA-PADRONCINA aspettava.</p><p align="justify"></p><p align="justify">Il ristorante era aperto e le luci accese, ma davanti c'era tanta gente. Persone che parlavano a bassa voce, con quei movimenti lenti che gli umani facevano quando qualcosa era andato storto.</p><p align="justify"></p><p align="justify">Rallent&#242;. L'odore di LA-PADRONCINA lo raggiunse: sapone, cipolle. E sotto, qualcos'altro. Sale. Lacrime.</p><p align="justify"></p><p align="justify">LA-PADRONCINA sulla porta. Piangeva.</p><p align="justify"></p><p align="justify">L'UOMO-PAP&#192; dietro, un foglio in mano. Il viso bianco. Parlava, ma la voce non era arrabbiata &#8212; era stanca, rotta. Per la prima volta, il suo odore non sapeva di rabbia. Sapeva di paura.</p><p align="justify"></p><p align="justify">Non capiva cosa stesse succedendo, ma capiva che era importante.</p><p align="justify"></p><p align="justify"><i>Vai al [7]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La corsa]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="23" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"><b>GAME OVER &#8212; PERSO</b></p><p align="justify"></p><p align="justify">Non sapeva pi&#249; dove fosse.</p><p align="justify"></p><p align="justify">Tutti i vicoli uguali. L'odore del CANTIERE scomparso. L'odore di casa scomparso.</p><p align="justify"></p><p align="justify">A destra. A sinistra. Ancora a destra, ogni strada portava a un'altra strada mentre il sole tramontava del tutto e le ombre si allungavano.</p><p align="justify"></p><p align="justify">Ulul&#242;. Un suono lungo, triste. <i>Sono qui. Sono perso. Aiutatemi.</i></p><p align="justify"></p><p align="justify">Nessuno rispose.</p><p align="justify"></p><p align="justify">Si accucci&#242; in un angolo sconosciuto. Pens&#242; a LA-PADRONCINA. Al ristorante, alla cuccia, alla coperta morbida. A RAGAZZO-SAMI che aspettava.</p><p align="justify"></p><p align="justify">Avrebbe provato domani. Quando il sole fosse tornato. Quando gli odori sarebbero stati pi&#249; forti.</p><p align="justify"></p><p align="justify">Ma stanotte era solo. Stanotte era perso. Stanotte lontano da tutto quello che amava.</p><p align="justify"></p><p align="justify"><b>FINE</b></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Perso]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[GAMEOVER]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="24" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Scelse IL-BUCO-CHE-CONOSCO, vi si infil&#242; e il buio lo accolse.</p><p align="justify"></p><p align="justify">A met&#224; tunnel sent&#236; di nuovo l'odore. Quello nuovo, ma pi&#249; forte adesso.</p><p align="justify"></p><p align="justify">Una luce. Fioca, tremolante. Qualcuno aspettava all'uscita.</p><p align="justify"></p><p align="justify">Due sagome. Voci dure. UOMINI-GUARDIA.</p><p align="justify"></p><p align="justify">Prese una decisione. Si abbass&#242; sulle zampe e scatt&#242;.</p><p align="justify"></p><p align="justify">Corse verso la luce a tutta velocit&#224;. Voci che gridavano, mani che cercavano di afferrarlo. Qualcosa gli sfior&#242; il pelo.</p><p align="justify"></p><p align="justify"><i>Se NON hai la condizione FERITO, vai al [22]</i></p><p align="justify"></p><p align="justify"><i>Se HAI la condizione FERITO, vai al [2]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Le guardie]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="25" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify">Scelse la prudenza.</p><p align="justify"></p><p align="justify">La via lunga passava per le case abbandonate &#8212; scheletri vuoti, muri senza tetti. Si mosse come un fantasma, invisibile.</p><p align="justify"></p><p align="justify">A met&#224; sent&#236; i motori. Jeep. Si appiatt&#236; contro un muro e aspett&#242;. I motori si allontanarono.</p><p align="justify"></p><p align="justify">Riprese. Il resto pass&#242; senza incidenti.</p><p align="justify"></p><p align="justify">Le prime case abitate del MONDO-DI-QUA apparvero col sole quasi al tramonto. Aveva perso tempo. Ma il sassolino era ancora nella busta.</p><p align="justify"></p><p align="justify">Poi lo sent&#236;. Un odore. Piccolo, spaventato. Un cucciolo d'umano. Sentiva che si stava facendo davvero tardi e stava diventando buio, ma si ferm&#242; un attimo.</p><p align="justify"></p><p align="justify"><i>Se segui l'odore del bambino, vai al [14]</i></p><p align="justify"></p><p align="justify"><i>Se ignori l'odore e corri verso casa, vai al [22]</i></p><p align="justify"></p><p align="justify"><i>Se ti avventuri nei vicoli sconosciuti cercando una scorciatoia, vai al [23]</i></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[La via lunga]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="26" type="chapter">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"><b>FINALE &#8212; L'EROE</b></p><p align="justify"></p><p align="justify">La sera scese sul ristorante.</p><p align="justify"></p><p align="justify">Il cane era nella cuccia. Stanco, ma di un peso buono. Il peso di una missione compiuta. Il peso di chi aveva aiutato qualcuno lungo la strada.</p><p align="justify"></p><p align="justify">LA-PADRONCINA era in cucina. Il sassolino sul davanzale, la luce del tramonto che lo faceva brillare.</p><p align="justify"></p><p align="justify">A un certo punto si avvicin&#242; alla cuccia. Si sedette accanto e lo accarezz&#242;.</p><p align="justify"></p><p align="justify">&#171;Sai cosa mi ha detto la signora del vicolo? Che un cane nero ha aiutato suo nipote oggi. Lo ha trovato che si era perso e gli &#232; rimasto accanto finch&#233; non &#232; arrivata lei.&#187;</p><p align="justify"></p><p align="justify">Scodinzol&#242;.</p><p align="justify"></p><p align="justify">&#171;Sei un eroe. Lo sai, vero? Non solo per me e per Sami. Per tutti.&#187;</p><p align="justify"></p><p align="justify">Lo abbracci&#242;. E il cane cap&#236; che a volte la missione pi&#249; importante non era solo quella assegnata. A volte era quella trovata lungo la strada.</p><p align="justify"></p><p align="justify"><b>FINE</b></p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[L'eroe]]></attribute>
+      <attribute name="hashtags" type="array"><![CDATA[FINALE]]></attribute>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="Introduzione" type="section">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"><b>IL SASSOLINO BIANCO</b></p><p align="justify"></p><p align="justify">Un librogame di Riccardo Scaringi</p><p align="justify"></p><p align="justify"></p><p align="justify">Un cane nero attraversa il confine ogni giorno. Porta cibo e parole in una direzione, speranza e silenzio nell'altra. Non capisce la guerra degli umani, ma capisce l'amore. E l'amore non conosce muri.</p><p align="justify"></p><p align="justify">Vai a [1]</p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Introduzione]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="" name="REGOLE" type="section">
+      <attribute name="description" type="string"><![CDATA[<p align="justify"></p><p align="justify"></p><p align="justify">Le tue scelte determinano il percorso e il finale.</p><p align="justify"></p><p align="justify">Sei un cane nero di nome Sababa. Vivi nel MONDO-DI-QUA, dove l'aria sa di mare. Ogni giorno attraversi il muro per portare cibo a Sami, un ragazzo nascosto nel MONDO-DI-L&#192;, dove l'aria sa di polvere e di morte.</p><p align="justify"></p><p align="justify">Il tuo compito: portare la mujadara. Riportare il sassolino bianco.</p><p align="justify"></p><p align="justify"><b>CONDIZIONI</b></p><p align="justify">Potresti acquisire condizioni. Annotale qui:</p><p align="justify"><i>FERITO</i></p><p align="justify"><i>HAI RESO OMAGGIO AI MORTI</i></p><p align="justify"><i>HAI AIUTATO QUALCUNO</i></p><p align="justify"></p><p align="justify">Vai a Introduzione</p>
+  ]]></attribute>
+      <attribute name="chapter_title" type="string"><![CDATA[Regole]]></attribute>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="flag_export" type="boolean"><![CDATA[true]]></attribute>
+      <attribute name="flag_fixed" type="boolean"><![CDATA[false]]></attribute>
+    </entity>
+    <entity group="setup" name="game" type="entity">
+      <attribute name="description" type="string"><![CDATA[<p></p>]]></attribute>
+      <attribute name="chapter_title" type="string"/>
+      <attribute name="hashtags" type="array"/>
+      <attribute name="lgc_version" type="string"><![CDATA[3.4.3.447]]></attribute>
+      <attribute name="title" type="string"><![CDATA[Il Sassolino Bianco]]></attribute>
+      <attribute name="author" type="string"><![CDATA[Riccardo Scaringi]]></attribute>
+      <attribute name="version" type="string"><![CDATA[I Corti 2026]]></attribute>
+      <attribute name="revision" type="integer"><![CDATA[28]]></attribute>
+      <attribute name="editing_action" type="string"><![CDATA[WRITING]]></attribute>
+      <attribute name="table_of_contents" type="string"><![CDATA[P(ALL)§Introduzione§REGOLE]]></attribute>
+      <attribute name="editing_chapter" type="string"><![CDATA[4]]></attribute>
+    </entity>
+    <entity group="setup" name="global_attributes" type="entity">
+      <attribute name="description" type="string"><![CDATA[<p></p>]]></attribute>
+      <attribute name="chapter_title" type="string"/>
+      <attribute name="hashtags" type="array"/>
+    </entity>
+  </entities>
+  <hashtags>
+    <hashtag color="#00ffff" count="1" label="AIUTO"/>
+    <hashtag color="#ff00ff" count="1" label="FERITO"/>
+    <hashtag color="#ffff00" count="3" label="FINALE"/>
+    <hashtag color="#ff0000" count="2" label="GAMEOVER"/>
+    <hashtag color="#00ff00" count="3" label="GOODENDING"/>
+    <hashtag color="#0000ff" count="1" label="OMAGGIO"/>
+  </hashtags>
+</book>
